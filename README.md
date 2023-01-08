@@ -1,21 +1,13 @@
 # Project title
-Notki app is simple app where u can add some notes. 
+toDoList is simple toDolist app with nice css. 
 
 # Project Description
+The application is a simple task list, built in reat. This application allows me to manipulate the state of a component using hooks.
 
-The application was modeled on google keeps, I used react framework to build it. The app taught me how to manipulate complex state in an array of objects and manipulate that array by adding and removing things from it.
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+# How to run project. 
+1. Clone repository
+2. Cd my-app 
+3. npm start
+4. App will be on localhost:3000
 
 
